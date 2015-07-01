@@ -1,4 +1,20 @@
 NUGET
   remote: https://nuget.org/api/v2
   specs:
+    Bugsnag.NET (0.2.0)
+      Newtonsoft.Json (>= 6.0.8)
+    Extended.Wpf.Toolkit (2.4)
     FAKE (3.35.5)
+    Humanizer (1.36.0)
+    Microsoft.Bcl (1.1.10)
+      Microsoft.Bcl.Build (>= 1.0.14)
+    Microsoft.Bcl.Async (1.0.168)
+      Microsoft.Bcl (>= 1.1.8)
+    Microsoft.Bcl.Build (1.0.21)
+    net.sf.mpxj-for-csharp (5.1.5)
+    Newtonsoft.Json (7.0.1)
+    NUnit (2.6.4)
+    NUnit.Runners (2.6.4)
+    NUnitTestAdapter (2.0.0)
+    SharpVectors (1.0)
+    ZetaLongPaths (1.0.0.7)

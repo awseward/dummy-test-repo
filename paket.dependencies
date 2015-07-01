@@ -1,3 +1,14 @@
 source https://nuget.org/api/v2
 
+nuget bugsnag.net
+nuget extended.wpf.toolkit
 nuget fake
+nuget humanizer
+nuget microsoft.bcl.async
+nuget net.sf.mpxj-for-csharp
+nuget newtonsoft.json
+nuget nunit
+nuget nunit.runners
+nuget nunittestadapter
+nuget sharpvectors
+nuget zetalongpaths
